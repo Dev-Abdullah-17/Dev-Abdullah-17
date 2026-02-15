@@ -1,11 +1,8 @@
-<!-- Typing Animation Header -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=600&lines=Hi!+I'm+Dev-Abdullah-17;Python+
-+Cpp+%7C+AI+%26+Robotics+Enthusiast;Developer+%7C+Innovator+%7C+Tech+Learner;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38C2FF&width=600&lines=Hi!+I'm+Abdullah;Python+\+Cpp+%7C+AI+%26+Robotics+Enthusiast;Developer+%7C+Innovator+%7C+Tech+Learner;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 👋 About Me
@@ -15,7 +12,7 @@
 * 🌱 Currently mastering **Advanced C++** & **Python AI Libraries**
 * 🔭 Building **Intelligent Robotics Systems** with Arduino
 * 🧠 Exploring **Computer Vision**, **Machine Learning**, and **IoT Networks**
-* 📫 Reach me at: **aapppp742@gmail.com**
+* 📫 Reach me at: **muhammadabdullah172006@gmail.com**
 * ⚡ Fun fact: I enjoy solving complex problems more than writing new code! 🧩
 
 ---
@@ -29,17 +26,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## 🔧 Skills Proficiency
-
-| Category          | Skills                           | Proficiency |
-|-------------------|----------------------------------|-------------|
-| Programming      | Python, C++                       | Advanced   |
-| AI/ML            | Machine Learning, Computer Vision | Intermediate |
-| Robotics         | Arduino, Sensor Integration       | Advanced   |
-| Tools            | Git, VS Code                      | Advanced     |
-
-*(Proficiency levels based on self-assessment and project experience)*
 
 ## 📊 GitHub Analytics
 
@@ -75,29 +61,6 @@
 
 ---
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🐍 Python Projects  
-[![PyFusion](https://img.shields.io/badge/GitHub-PyFusion-blue?style=for-the-badge&logo=github)](https://github.com/Dev-Abdullah-17/PyFusion)  
-Explore **PyFusion** — my hub for Python projects, including **Nexus AI Desktop Assistant**, **Face Management System using OpenCV**, and more innovative automation tools.  
-**Tech:** Python, SpeechRecognition, Tkinter, Pyttsx3, OpenCV, Threading
-
----
-
-### 💻 C++ Projects  
-[![CppFusion](https://img.shields.io/badge/GitHub-CppFusion-blue?style=for-the-badge&logo=github)](https://github.com/Dev-Abdullah-17/CppFusion)  
-Check out **CppFusion** — showcasing C++ projects such as **Business Store Management System** and **Employee Management System**, built with structured logic and real-world data handling.  
-**Tech:** C++, File Handling, Structs, Functions, Data Management
-
----
-
-### 🤖 Arduino Projects  
-[![ArduinoCore](https://img.shields.io/badge/GitHub-ArduinoCore-blue?style=for-the-badge&logo=github)](https://github.com/Dev-Abdullah-17/ArduinoCore)  
-Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ultrasonic sensors**, **motor controls**, and **Bluetooth-integrated systems**.  
-**Tech:** Arduino Uno, Sensors, Actuators, Embedded C++
-
 </div>
 
 ---
@@ -107,8 +70,8 @@ Visit **ArduinoCore** — my robotics playground featuring **IR sensors**, **ult
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-abdullah-17)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dev_abdullah_17)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aapppp742@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abdullah_here987)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammahabdullah172006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-Abdullah-17)
 
 </div>
