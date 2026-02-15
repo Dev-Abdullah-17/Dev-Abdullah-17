@@ -31,12 +31,6 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Dev-Abdullah-17&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Dev-Abdullah-17 GitHub Stats" height="170"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Abdullah-17&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages" height="170"/>
-
 <!-- Profile Summary Card -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Abdullah-17&theme=radical" alt="Profile Details" height="220"/>
 
