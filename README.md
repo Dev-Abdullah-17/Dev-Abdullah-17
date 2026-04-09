@@ -7,10 +7,10 @@
 
 ## 👋 About Me
 
-🎓 **Python / C++ Developer** | 🤖 **AI & Robotics Innovator** | 💡 **Tech Enthusiast**
+🎓 **Python / Ai/ml Enthusiast** | 🤖 **Rag systems and LLM chatbots  ** | 💡 **Tech Enthusiast**
 
 * 🌱 Currently mastering **Advanced C++** & **Python AI Libraries**
-* 🔭 Building **Intelligent Robotics Systems** with Arduino
+* 🔭 Building **Intelligent Ai/ml Systems** with RAG and python libraries like tensorflow, yfinance , FAISS, langchain,pytorch.
 * 🧠 Exploring **Computer Vision**, **Machine Learning**, and **IoT Networks**
 * 📫 Reach me at: **muhammadabdullah172006@gmail.com**
 * ⚡ Fun fact: I enjoy solving complex problems more than writing new code! 🧩
